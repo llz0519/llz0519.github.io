@@ -105,7 +105,7 @@ export function Hero({ onNavigate }: HeroProps) {
               <FadeUp delay={0.6}>
                 <div className="flex items-center gap-3 mb-3">
                   <img
-                    src="/assets/avatar.jpg"
+                    src="/images/avatar.jpg"
                     alt="李林泽"
                     className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover border-2 border-[#DEDBC8]/20"
                   />
